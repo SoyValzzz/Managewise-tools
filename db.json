@@ -1,0 +1,200 @@
+{
+  "tools": [
+    {
+      "id": "GIT",
+      "name": "GitHub",
+      "link": "https://github.com",
+      "category": "Control de versiones",
+      "image": "https://example.com/images/github.png"
+    },
+    {
+      "id": "JS",
+      "name": "JavaScript",
+      "link": "https://www.javascript.com",
+      "category": "Lenguaje de programación",
+      "image": "https://example.com/images/javascript.png"
+    },
+    {
+      "id": "PY",
+      "name": "Pythonland",
+      "link": "https://www.python.org",
+      "category": "Lenguaje de programación",
+      "image": "https://example.com/images/python.png"
+    },
+    {
+      "id": "JAVA",
+      "name": "Java Island",
+      "link": "https://www.oracle.com/java",
+      "category": "Lenguaje de programación",
+      "image": "https://example.com/images/java.png"
+    },
+    {
+      "id": "CLOUD",
+      "name": "Cloudia",
+      "link": "https://aws.amazon.com",
+      "category": "Computación en la nube",
+      "image": "https://example.com/images/aws.png"
+    },
+    {
+      "id": "AI",
+      "name": "Artificial Intelligence",
+      "link": "https://www.ibm.com/artificial-intelligence",
+      "category": "Inteligencia Artificial",
+      "image": "https://example.com/images/ai.png"
+    },
+    {
+      "id": "DEV",
+      "name": "Developia",
+      "link": "https://www.dev.to",
+      "category": "Comunidad de desarrolladores",
+      "image": "https://example.com/images/dev.png"
+    },
+    {
+      "id": "DATA",
+      "name": "Dataverse",
+      "link": "https://www.dataverse.org",
+      "category": "Datos",
+      "image": "https://example.com/images/dataverse.png"
+    },
+    {
+      "id": "SQL",
+      "name": "SQL Server",
+      "link": "https://www.microsoft.com/en-us/sql-server",
+      "category": "Base de datos",
+      "image": "https://example.com/images/sqlserver.png"
+    },
+    {
+      "id": "UX",
+      "name": "User Experience",
+      "link": "https://www.nngroup.com",
+      "category": "Experiencia del usuario",
+      "image": "https://example.com/images/ux.png"
+    },
+    {
+      "id": "CI",
+      "name": "Continuous Integration",
+      "link": "https://www.atlassian.com/continuous-delivery/continuous-integration",
+      "category": "Prácticas de desarrollo",
+      "image": "https://example.com/images/ci.png"
+    },
+    {
+      "id": "AGILE",
+      "name": "Agileland",
+      "link": "https://www.agilealliance.org",
+      "category": "Metodología",
+      "image": "https://example.com/images/agile.png"
+    },
+    {
+      "id": "NODE",
+      "name": "Node.js",
+      "link": "https://nodejs.org",
+      "category": "Entorno de ejecución",
+      "image": "https://example.com/images/nodejs.png"
+    },
+    {
+      "id": "REACT",
+      "name": "React World",
+      "link": "https://reactjs.org",
+      "category": "Framework",
+      "image": "https://example.com/images/react.png"
+    },
+    {
+      "id": "ML",
+      "name": "Machine Learning",
+      "link": "https://www.tensorflow.org",
+      "category": "Inteligencia Artificial",
+      "image": "https://example.com/images/machinelearning.png"
+    },
+    {
+      "id": "DEVOPS",
+      "name": "DevOps Kingdom",
+      "link": "https://www.devops.com",
+      "category": "Prácticas de desarrollo",
+      "image": "https://example.com/images/devops.png"
+    },
+    {
+      "id": "UXD",
+      "name": "UX Design",
+      "link": "https://www.uxdesign.cc",
+      "category": "Diseño",
+      "image": "https://example.com/images/uxdesign.png"
+    },
+    {
+      "id": "APP",
+      "name": "App Development",
+      "link": "https://www.appdevelopment.com",
+      "category": "Desarrollo de aplicaciones",
+      "image": "https://example.com/images/appdevelopment.png"
+    },
+    {
+      "id": "WEB",
+      "name": "Web Development",
+      "link": "https://www.w3schools.com",
+      "category": "Desarrollo web",
+      "image": "https://example.com/images/webdevelopment.png"
+    },
+    {
+      "id": "MLANG",
+      "name": "Multi-Language",
+      "link": "https://www.programming-languages.net",
+      "category": "Lenguajes de programación",
+      "image": "https://example.com/images/multilanguage.png"
+    },
+    {
+      "id": "FRAME",
+      "name": "Frameworks",
+      "link": "https://www.fullstackacademy.com/frameworks",
+      "category": "Frameworks",
+      "image": "https://example.com/images/frameworks.png"
+    },
+    {
+      "id": "CROSS",
+      "name": "Cross-Platform",
+      "link": "https://www.flutter.dev",
+      "category": "Desarrollo multiplataforma",
+      "image": "https://example.com/images/crossplatform.png"
+    },
+    {
+      "id": "K8S",
+      "name": "Kubernetes",
+      "link": "https://kubernetes.io",
+      "category": "Orquestación de contenedores",
+      "image": "https://example.com/images/kubernetes.png"
+    },
+    {
+      "id": "DOCKER",
+      "name": "Docker Hub",
+      "link": "https://hub.docker.com",
+      "category": "Contenedores",
+      "image": "https://example.com/images/docker.png"
+    },
+    {
+      "id": "BLOCKCHAIN",
+      "name": "Blockchain Hub",
+      "link": "https://www.blockchain.com",
+      "category": "Tecnología emergente",
+      "image": "https://example.com/images/blockchain.png"
+    },
+    {
+      "id": "VR",
+      "name": "Virtual Reality",
+      "link": "https://www.oculus.com",
+      "category": "Realidad virtual",
+      "image": "https://example.com/images/vr.png"
+    },
+    {
+      "id": "IOT",
+      "name": "Internet of Things",
+      "link": "https://www.iotforall.com",
+      "category": "Tecnología emergente",
+      "image": "https://example.com/images/iot.png"
+    },
+    {
+      "id": "SECURITY",
+      "name": "Cybersecurity",
+      "link": "https://www.csoonline.com",
+      "category": "Seguridad",
+      "image": "https://example.com/images/cybersecurity.png"
+    }
+  ]
+}
